@@ -123,6 +123,4 @@ SHAP розкрив, що `contact` і `age` значно важливіші, н
 ```
 ├── README.md
 ├── bank_marketing_analysis.ipynb   # Основний ноутбук
-├── bank-additional-full.csv        # Датасет
-└── images/                         # Графіки та візуалізації
 ```
